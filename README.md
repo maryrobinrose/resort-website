@@ -13,6 +13,8 @@ _This website is an exercise in branching and merging git files as well as CSS m
 * _Clone repository_
 * _Open index.html_
 
+_Alternatively, find the website at [this](https://rohanpmoore.github.io/resort-website/) link._
+
 ## Known Bugs
 
 _None_
